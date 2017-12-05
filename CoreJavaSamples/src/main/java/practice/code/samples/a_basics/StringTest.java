@@ -1,7 +1,7 @@
 package practice.code.samples.a_basics;
 
 /**
- * This is test comment.
+ * 
  * @author Pranav_Gothadiya
  *
  */
