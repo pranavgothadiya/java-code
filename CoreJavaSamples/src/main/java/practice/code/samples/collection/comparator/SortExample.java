@@ -43,7 +43,7 @@ class Dog implements Comparator<Dog>, Comparable<Dog> {
 	}
 }
 
-public class Example {
+public class SortExample {
 
 	public static void main(String args[]) {
 		// Takes a list o Dog objects

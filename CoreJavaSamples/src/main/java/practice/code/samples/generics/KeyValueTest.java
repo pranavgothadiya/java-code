@@ -2,6 +2,7 @@ package practice.code.samples.generics;
 
 
 /**
+ * Class using Generics key-value
  * @author Pranav_Gothadiya
  */
 import java.util.HashMap;
@@ -16,6 +17,14 @@ public class KeyValueTest {
 	}
 }
 
+
+/**
+ * 
+ * @author Pranav_Gothadiya
+ *
+ * @param <K> can hold key of any type
+ * @param <V> can hold value of any type
+ */
 class MyMap<K,V>{
 
 	HashMap<K, V> list = new HashMap<K,V>();

@@ -2,7 +2,7 @@ package practice.code.samples.abstractclass;
 
 
 /**
- * Example of Abstract class
+ * SortExample of Abstract class
  * @author Pranav_Gothadiya
  *
  */

@@ -1,6 +1,7 @@
 package practice.code.samples.generics;
 
 /**
+ * Create and use custom class using Generic
  * 
  * @author Pranav_Gothadiya
  *
@@ -9,11 +10,13 @@ public class GenericsVsArray {
 
 	public static void main(String[] args) {
 	
+		//Holder with String type
 		Holder<String> holder = new Holder<String>(10);
 		holder.add("Pranav");
 		String name = holder.get();
 		System.out.println("String Name: " + name);
 		
+		//Holder with Integer type
 		Holder<Integer> intHolder = new Holder<Integer>(5);
 		intHolder.add(new Integer(20));
 		int val = intHolder.get();

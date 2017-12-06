@@ -1,6 +1,7 @@
 package practice.code.samples.bigdecimal;
 
 /**
+ * How to use Big Decimal
  * @author Pranav_Gothadiya
  */
 import java.io.IOException;
