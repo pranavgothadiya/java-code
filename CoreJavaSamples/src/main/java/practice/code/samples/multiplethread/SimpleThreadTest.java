@@ -1,11 +1,11 @@
-package practice.code.samples.a_basics;
+package practice.code.samples.multiplethread;
 
 /**
- * 
+ * Simple Java Thread Test
  * @author Pranav_Gothadiya
  *
  */
-public class Application {
+public class SimpleThreadTest {
 	
 	final static class Constants {
         public static String name = "PI";

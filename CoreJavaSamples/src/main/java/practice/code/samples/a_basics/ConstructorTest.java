@@ -1,13 +1,13 @@
 package practice.code.samples.a_basics;
 
 /**
- * 
+ * Simple Constructor test
  * @author Pranav_Gothadiya
  *
  */
-public class ConstruTest {
+public class ConstructorTest {
 	
-	public ConstruTest(String name) {
+	public ConstructorTest(String name) {
 		System.out.println("ConstrTest->Constructor name: " + name);
 	}
 
@@ -17,7 +17,7 @@ public class ConstruTest {
 
 }
 
-class SubTest extends ConstruTest{
+class SubTest extends ConstructorTest{
 
 	public SubTest(String name){
 		super(name);

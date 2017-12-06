@@ -1,7 +1,7 @@
 package practice.code.samples.a_basics;
 
 /**
- * 
+ * How to use String
  * @author Pranav_Gothadiya
  *
  */

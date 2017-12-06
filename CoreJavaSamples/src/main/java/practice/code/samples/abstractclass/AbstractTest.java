@@ -29,7 +29,7 @@ abstract class Animal {
 	 *  It can not be called, but it will be used internally.
 	 */
 	public Animal(String nm) {
-		nm += "(super)";
+		nm = "(Animal) named " + nm;
 		this.name = nm;
 	}
 
@@ -37,9 +37,13 @@ abstract class Animal {
 }
 
 class Dog extends Animal {
+	
+	String name;
 
 	public Dog(String nm) {
 		super(nm);
+		nm = "(Dog) named " + nm;
+		this.name = nm;
 	}
 
 	@Override
