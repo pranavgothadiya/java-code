@@ -5,6 +5,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.math.BigDecimal;
 
+/**
+ * This class implements the decorator
+ * 
+ * @author Pranav_Gothadiya
+ *
+ */
 public class AmountInput extends InputDecorator {
 
 	private Inputs input;
