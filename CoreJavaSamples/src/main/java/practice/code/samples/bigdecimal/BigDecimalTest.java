@@ -7,7 +7,7 @@ package practice.code.samples.bigdecimal;
 import java.io.IOException;
 import java.math.BigDecimal;
 
-public class BigDecimalExample {
+public class BigDecimalTest {
 
 	int i;
 

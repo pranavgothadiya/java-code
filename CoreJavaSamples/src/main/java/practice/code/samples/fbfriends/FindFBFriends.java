@@ -17,6 +17,7 @@ import java.util.List;
  */
 public class FindFBFriends {
 
+	//This is placeholder path - when you compile, give actual path here
 	private static final String FILE_PATH = "C:/Home/fb_pg_views.txt";
 	private static final String FB_URL = "https://www.facebook.com/";
 

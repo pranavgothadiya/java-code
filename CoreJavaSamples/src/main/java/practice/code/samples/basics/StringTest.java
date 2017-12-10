@@ -1,4 +1,4 @@
-package practice.code.samples.a_basics;
+package practice.code.samples.basics;
 
 /**
  * How to use String

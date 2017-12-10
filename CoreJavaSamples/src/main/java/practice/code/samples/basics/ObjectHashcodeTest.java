@@ -1,11 +1,11 @@
-package practice.code.samples.a_basics;
+package practice.code.samples.basics;
 
 /**
  * 
  * @author Pranav_Gothadiya
  *
  */
-public class Main {
+public class ObjectHashcodeTest {
 
 	public static void main(String[] args) {
 		method(null);

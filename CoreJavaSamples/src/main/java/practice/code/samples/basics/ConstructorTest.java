@@ -1,4 +1,4 @@
-package practice.code.samples.a_basics;
+package practice.code.samples.basics;
 
 /**
  * Simple Constructor test
@@ -12,7 +12,7 @@ public class ConstructorTest {
 	}
 
 	public static void main(String[] args) {
-
+		ConstructorTest test = new SubTest("Hi");
 	}
 
 }
